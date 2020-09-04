@@ -1,0 +1,19 @@
+{
+    "name": "day3",
+    "version": "1.0.0",
+    "description": "",
+    "main": "express.js",
+    "scripts": {
+        "start:node": "node src/demo.js",
+        "start": "nodemon /src/demo.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "art-template": "^4.13.2",
+        "express": "^4.17.1",
+        "express-art-template": "^1.0.1"
+    }
+}
